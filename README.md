@@ -1,0 +1,2 @@
+# TheAssault
+this is my first game. It is intended for students getting bored in IT but anyone can play it. It is a batch game, witch means everything exept "pictures" (20p max XD) and "cinematics" (same) are text-based. But that also means it can run on any computer from windows 7 up. The objective is to get my level of coding up, to then upgrade this game. If it is a success i'll try to make a Unity version in far future.
